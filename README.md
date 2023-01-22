@@ -35,6 +35,10 @@ I used some spacing design principals to spread the page a bit.
 
 I changed the icons to a bounce animation. I thought this gives them more energy and personality. Each icon has its own rythym which gives them individuality.
 
+#### Email Input
+
+I added a focus state to the input to make it more clear to the user. Also changed the design of the default state because I thought it looked cooler. This uses standard HTML email validation. Further validation should happen on the server but out of scope for this assignment.
+
 ## Getting Started
 
 ```bash
