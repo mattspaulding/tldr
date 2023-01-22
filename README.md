@@ -39,6 +39,10 @@ I changed the icons to a bounce animation. I thought this gives them more energy
 
 I added a focus state to the input to make it more clear to the user. Also changed the design of the default state because I thought it looked cooler. This uses standard HTML email validation. Further validation should happen on the server but out of scope for this assignment.
 
+## Performance
+
+Check out the PageSpeed Insights here [https://pagespeed.web.dev/report?url=https%3A%2F%2Ftldr-eosin.vercel.app%2F](https://pagespeed.web.dev/report?url=https%3A%2F%2Ftldr-eosin.vercel.app%2F)
+
 ## Getting Started
 
 ```bash
