@@ -2,6 +2,12 @@
 
 Recration of TLDR homepage
 
+## Production
+
+The application is deployed on vercel check it out
+
+[https://tldr-eosin.vercel.app](https://tldr-eosin.vercel.app)
+
 ## Introduction
 
 This application accepts a validated email address, POSTs it to the API which prints the email in terminal, and then redirects to a success page.
@@ -19,7 +25,7 @@ I copied the home page mostly with some notable chages
 
 #### Color
 
-The original black and white is a bit jarring to look at so I went with a slate pallete. The muted text is easier on the eyes. The important sections of the page are bright to make them stand out. i.e. the title and CTA are brighter than the body.
+The original black and white is a bit jarring to look at so I went with a slate palette. The muted text is easier on the eyes. The important sections of the page are bright to make them stand out. i.e. the title and CTA are brighter than the body.
 
 #### Spacing
 
